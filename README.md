@@ -1,2 +1,2 @@
-# cthampion_recommender
+# champion_recommender
 recommends new champions to you in league of legeneds

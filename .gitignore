@@ -3,3 +3,6 @@ Lib
 Scripts
 .env
 pyvenv.cfg
+crawl.db
+notes.txt
+__pycache__
